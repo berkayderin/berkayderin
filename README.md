@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayderin&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=berkayderin&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 
-## Spotify Live
+## Spotify Live <img src="assets/images/Fire.png" width="30">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=3147xzjw46mwpxajah6fdnmvbbau">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=3147xzjw46mwpxajah6fdnmvbbau" alt="Data Card for Spotify">
 </a>
