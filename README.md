@@ -5,9 +5,10 @@
 <a href="https://nodejs.org/"><img src="assets/icons/NodeJS.svg" width="25"></a>
 <a href="https://expressjs.com/"><img src="assets/icons/ExpressJS.svg" width="25"></a>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
+<a href="https://reactjs.org/"><img src="assets/icons/React.svg" width="25"></a>
+<a href="https://nextjs.org/"><img src="assets/icons/NextJS.svg" width="25"></a>
 
-# GitHub Stats <img src="assets/images/Bar Chart.png" width="30">
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+
+## GitHub Stats <img src="assets/images/Bar Chart.png" width="30">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayderin&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
