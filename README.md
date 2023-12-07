@@ -12,4 +12,4 @@
 
 ## GitHub Stats <img src="assets/images/Bar Chart.png" width="30">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayderin&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=berkayderin&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=berkayderin&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
