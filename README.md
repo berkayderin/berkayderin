@@ -1,5 +1,5 @@
 
-# 💻 Tech Stack:
+## Skills <img src="assets/images/Rocket.png" width="30">
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 
