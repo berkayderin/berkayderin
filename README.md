@@ -9,6 +9,8 @@
 <a href="https://nextjs.org/"><img src="assets/icons/NextJS.svg" width="25"></a>
 
 <a href="https://nextjs.org/"><img src="assets/icons/TailwindCSS.svg" width="25"></a>
+<a href="https://nextjs.org/"><img src="assets/icons/Bootstrap_logo.svg.png" width="25"></a>
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 
