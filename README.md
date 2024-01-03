@@ -8,6 +8,8 @@
 <a href="https://reactjs.org/"><img src="assets/icons/React.svg" width="25"></a>
 <a href="https://nextjs.org/"><img src="assets/icons/NextJS.svg" width="25"></a>
 
+<a href="https://nextjs.org/"><img src="assets/icons/TailwindCSS.svg" width="25"></a>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 
 ## GitHub Stats <img src="assets/images/Bar Chart.png" width="30">
