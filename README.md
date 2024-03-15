@@ -1,7 +1,15 @@
+# Hi there, I'm Berkay Derin! 👋
+
+## 👨🏻‍💻 About Me
+
+I'm a third-year Software Engineering student passionate about technology and building software that solves real-world problems. I thrive on challenges and am always eager to learn new technologies and methodologies to better myself as a developer.
+
+- 🏫 I'm currently studying Software Engineering at Mehmet Akif Ersoy University.
+- 💡 I'm on a constant quest to learn and explore new technologies.
+- 🌱 I'm currently diving deeper into Full Stack Development, Machine Learning.
+- 💼 I'm looking for internships and collaborative projects in software development.
+
 # Tech Stack <img src="assets/images/Rocket.png" width="30">
-
-Utilize a blend of icons and badges to create a visually appealing and informative section:
-
 ## Programming Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
