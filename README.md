@@ -4,7 +4,6 @@
 
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-
 <a href="https://nodejs.org/"><img src="assets/icons/NodeJS.svg" width="25"></a>
 <a href="https://expressjs.com/"><img src="assets/icons/ExpressJS.svg" width="25"></a>
 
