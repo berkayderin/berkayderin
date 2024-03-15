@@ -1,4 +1,7 @@
 ## Tech Stack <img src="assets/images/Rocket.png" width="30">
+<a href="https://nodejs.org/"><img src="assets/icons/Python.svg" width="25"></a>
+<a href="https://nodejs.org/"><img src="assets/icons/Django.svg" width="25"></a>
+
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 
