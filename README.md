@@ -3,7 +3,7 @@ I'm a third-year Software Engineering student passionate about technology and bu
 
 - 🏫 I'm currently studying Software Engineering at Mehmet Akif Ersoy University.
 - 💡 I'm on a constant quest to learn and explore new technologies.
-- 🌱 I'm currently diving deeper into Full Stack Development, Machine Learning.
+- 🌱 I'm currently diving deeper into Full Stack Development.
 - 💼 I'm looking for internships and collaborative projects in software development.
 
 # Tech Stack <img src="assets/images/Rocket.png" width="30">
