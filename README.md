@@ -27,7 +27,7 @@ I'm a third-year Software Engineering student passionate about technology and bu
 
 <p align="start">
   <a href="https://www.linkedin.com/in/berkayderin/">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,graphql" />
+    <img src="https://skillicons.dev/icons?i=java,py,graphql" />
   </a>
 </p>
 
