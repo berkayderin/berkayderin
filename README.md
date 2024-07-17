@@ -1,31 +1,31 @@
-# Tech Stack <img src="assets/images/Rocket.png" width="30">
+## Tech Stack <img src="assets/images/Rocket.png" width="20">
 <p align="start">
-  <a href="https://www.linkedin.com/in/berkayderin/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <a href="https://www.linkedin.com/in/berkayderin/" >
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" width="100" />
   </a>
 </p>
 
 <p align="start">
   <a href="https://www.linkedin.com/in/berkayderin/">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express" width="100" />
   </a>
 </p>
 
 <p align="start">
   <a href="https://www.linkedin.com/in/berkayderin/">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" width="60" />
   </a>
 </p>
 
 <p align="start">
   <a href="https://www.linkedin.com/in/berkayderin/">
-    <img src="https://skillicons.dev/icons?i=java,py,graphql" />
+    <img src="https://skillicons.dev/icons?i=java,py,graphql"  width="100"/>
   </a>
 </p>
 
 <p align="start">
   <a href="https://www.linkedin.com/in/berkayderin/">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase," />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase," width="100" />
   </a>
 </p>
 
