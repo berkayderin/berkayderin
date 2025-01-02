@@ -1,25 +1,25 @@
 ## Tech Stack <img src="assets/images/Rocket.png" width="20">
 <p align="start">
   <a href="https://www.linkedin.com/in/berkayderin/" >
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap" />
   </a>
 </p>
 
 <p align="start">
   <a href="https://www.linkedin.com/in/berkayderin/">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express"  />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,electron"  />
   </a>
 </p>
 
 <p align="start">
   <a href="https://www.linkedin.com/in/berkayderin/">
-    <img src="https://skillicons.dev/icons?i=java,py,graphql"  />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,express,py,graphql"  />
   </a>
 </p>
 
 <p align="start">
   <a href="https://www.linkedin.com/in/berkayderin/">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase," />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,prisma" />
   </a>
 </p>
 
