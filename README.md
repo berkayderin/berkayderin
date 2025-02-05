@@ -1,15 +1,19 @@
-hi, i'm software engineer. 
+# Developer Tech Stack 🚀
+A passionate software engineer specializing in full-stack development.
 
-### Frontend Development
-<p align="start">
-  <a href="https://www.linkedin.com/in/berkayderin/">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs" />
-  </a>
-</p>
+### Frontend
+![FRONTEND](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,redux,electron)
 
-### Backend Development
-<p align="start">
-  <a href="https://www.linkedin.com/in/berkayderin/">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,express,mongodb,mysql,postgresql,firebase,graphql" />
-  </a>
-</p>
+### Backend
+![BACKEND](https://skillicons.dev/icons?i=java,kotlin,spring,python,express)
+
+### Databases
+![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase)
+
+### API & Database Tools
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+### DevOps & Cloud
+![Devops](https://skillicons.dev/icons?i=git,aws,azure,vercel,netlify,heroku)
