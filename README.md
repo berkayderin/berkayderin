@@ -1,19 +1,13 @@
-# Developer Tech Stack 🚀
-A passionate software engineer specializing in full-stack development.
+A passionate software engineer trying to specialize in full-stack development.
 
 ### Frontend
-![FRONTEND](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,redux,electron)
+![FRONTEND](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,electron)
 
 ### Backend
 ![BACKEND](https://skillicons.dev/icons?i=java,kotlin,spring,python,express)
 
-### Databases
-![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase)
-
-### API & Database Tools
-![GraphQL](https://skillicons.dev/icons?i=graphql)
-![Prisma](https://skillicons.dev/icons?i=prisma)
-![Postman](https://skillicons.dev/icons?i=postman)
+### Databases & Tools
+![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,graphql,prisma,postman)
 
 ### DevOps & Cloud
-![Devops](https://skillicons.dev/icons?i=git,aws,azure,vercel,netlify,heroku)
+![Devops](https://skillicons.dev/icons?i=git,azure,vercel,netlify,heroku)
