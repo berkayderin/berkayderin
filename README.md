@@ -1,1 +1,9 @@
-I am a software engineer. I have expertise in modern web technologies and particularly strong experience in the React.js ecosystem. I am proficient in managing communication between frontend and backend using Node.js with the BFF (Backend For Frontend) pattern. I am also developing my skills in backend technologies, gaining experience in API development with Node.js, Express.js, and Next.js. I focus on creating performance-oriented and scalable applications while prioritizing user experience. I embrace clean code principles and emphasize building sustainable code structures. I am dedicated to learning new technologies and continuously improving myself.
+<p align="center">Experienced software engineer with expertise in modern web technologies and attention to detail. I have developed user-friendly, scalable applications with a focus on React.js ecosystem. I implemented Frontend-Backend integration using Node.js with Backend-for-Frontend (BFF) architecture. Clean code, performance optimization, and continuous learning are my priorities. I am team-oriented and constantly improving my technical skills.</p>
+
+<div align="center">
+  
+### Tech Stack
+<p>
+JavaScript • TypeScript • React.js • Next.js • Zustand • Redux • TanStack Query • TailwindCSS • Bootstrap • Ant Design • Shadcn • React Hook Form • Zod • Node.js • BFF Pattern • Supabase • Sentry • Playwright • AWS Bedrock • Git • ESLint • Slack
+</p>
+</div>
