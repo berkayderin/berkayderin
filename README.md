@@ -4,6 +4,6 @@
   
 ### Tech Stack
 <p>
-JavaScript • TypeScript • React.js • Next.js • Zustand • Redux • TanStack Query • TailwindCSS • Bootstrap • Ant Design • Shadcn • React Hook Form • Zod • Node.js • BFF Pattern • Supabase • Sentry • Playwright • AWS Bedrock • Git • ESLint • Slack
+Java • Spring Boot • JavaScript • TypeScript • React.js • Next.js • Zustand • Redux • TanStack Query • TailwindCSS • Bootstrap • Ant Design • Shadcn • React Hook Form • Zod • Node.js • BFF Pattern • Postgresql • Mongodb • Supabase • Sentry • Playwright • AWS Bedrock • Git • ESLint • Slack
 </p>
 </div>
